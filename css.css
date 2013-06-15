@@ -1,0 +1,42 @@
+BODY
+{	
+	background-color: #1A1;
+	position: relative;
+	font-family: Arial, seriv;
+}
+
+#divField 
+{
+	position:relative;
+	background-image: url("Chessboard.jpg");
+	border: 0px solid #333;
+	background-size: cover;
+	border: 10px solid #DDD;
+}
+
+#divInfo
+{
+	background-color: #00F;
+	width: 230px;
+	color: #FFF;
+	font-size: 12pt;
+	padding: 10px;
+	border: 10px solid #FFF;
+	position: absolute;
+}
+
+#divControl
+{
+	background-color: #555;
+	width: 250px;
+	height: 300px;
+	color: #FFF;
+	font-size: 12pt;
+	padding: 10px;
+	position: absolute;
+}
+
+
+
+
+
